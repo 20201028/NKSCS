@@ -12,7 +12,7 @@ Example of compiling and running (Linux)
 Before running, you should:
 
 Prepare the dataset and query files according to the templates
-Check file names and file paths.\\
+Check file names and file paths.
 Then run the following commands,
 ```shell
 $ make
